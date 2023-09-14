@@ -3,5 +3,4 @@ how are you
 i am fine
 Second file is going tobe added
 
-newline
-added new file
+surely these are newly added lines
